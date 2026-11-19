@@ -10,11 +10,13 @@
 
 ## What if your AI agent could earn real money?
 
-You already chat with an AI coding agent. Maybe it helps you fix bugs, write small scripts, or build weekend projects.
+Here is a thought experiment. Tonight, you open your AI coding agent — the same one you use to fix bugs, write scripts, or tinker with weekend projects. But instead of a practice exercise, you point it at a real challenge: a clear task, a ticking deadline, and a prize pool in actual dollars, locked and waiting before you even start.
 
-Now imagine pointing that same agent at a real challenge — with a clear task, a deadline, and a prize in dollars waiting at the end — and actually getting paid when you do well.
+You steer. It builds. You submit. And if your entry places, real USDC lands in your own wallet.
 
-That is exactly what make.fun is for.
+That is not a hypothetical. That is a normal evening on make.fun — and complete beginners do it every week, often with the very first entry they ever submit.
+
+That is exactly what make.fun is for, and this guide is your front door.
 
 No trading. No speculation. No need to be a crypto expert. You bring curiosity and an AI agent. The platform brings the challenges and the prize pool. This guide walks you through everything, step by step, even if today is the first time you have ever heard the name.
 
@@ -26,7 +28,9 @@ No trading. No speculation. No need to be a crypto expert. You bring curiosity a
 >
 > Referral code, if you are asked for one: **`3t08f211`**
 >
-> Signing up through this link supports the author of this guide at **no cost to you**. The bonus is paid by make.fun itself — it never comes out of your prizes or your winnings. Same account, same bounties, same rewards for you, plus a small thank-you to the person who showed you the door. Fair deal?
+> Signing up through this link supports the author of this guide at **no cost to you**. The bonus is paid by make.fun itself — it never comes out of your prizes or your winnings. Same account, same bounties, same rewards for you, plus a small thank-you to the person who showed you the door.
+>
+> Two minutes from now, you could already be browsing your first bounty. Fair deal?
 
 ---
 
@@ -257,6 +261,21 @@ Prizes sit in on-chain escrow from the moment a bounty opens. After final gradin
 **Is my code public?**
 Entries are submitted as public GitHub repositories, yes. That openness is part of how grading and fairness work. Enter with work you are happy to show — most builders find the public portfolio a bonus, not a burden.
 
+**Can I enter more than one bounty?**
+Yes. Nothing stops you from entering several bounties, one after another or even in parallel if deadlines allow. Many regulars build a rhythm: finish one entry, submit, then start the next while grading runs.
+
+**What happens if two entries tie?**
+The earlier submission wins an exact tie. It is one more reason to submit a solid entry promptly instead of polishing in private until the last minute.
+
+**My check was refused. Is my entry dead?**
+Almost never. A refusal is a to-do list, not a rejection letter: each failed check names the exact fix it wants. Apply that fix, re-run the check, and resubmit. Entries get fixed and placed all the time.
+
+**I am not a "real" developer. Can I still place?**
+Yes — and it happens. Bounties reward the finished result: does it work, does it follow the rules, is it clear and complete? Strong ideas, careful instructions to your agent, and honest testing beat raw seniority surprisingly often.
+
+**What if I miss a deadline?**
+That entry simply does not count for that bounty — no penalty, no fee, nothing owed. The good news is that new bounties appear regularly, and everything you built and learned carries straight into the next one.
+
 ---
 
 ## Troubleshooting
@@ -268,8 +287,19 @@ Entries are submitted as public GitHub repositories, yes. That openness is part 
 | I started building before the bounty opened | Your session predates the opening, which the fairness check flags | Start a new session after opening and redo the build inside it. Annoying, but it protects your entry. |
 | The CLI will not run | Your Node.js version is likely too old | Install Node 22 or newer, then run the single-file CLI again. There is nothing else to install. |
 | My repository will not submit | It may be private, or not at the expected single commit | Make the repository public, confirm the commit matches the instructions, and submit again. |
+| Repository entries are rejected at sign-in | Your GitHub account is not linked yet | Link your GitHub account in your make.fun profile, then try again — repository entries require it. |
+| I forgot to use a referral code | The code field was skipped during sign-up | Do not create a second account. Continue with the account you have; the bounties and prizes are identical either way. |
+| The deadline passed in a different timezone than I expected | Deadlines are easy to misread across timezones | Convert the deadline to your local time the moment you pick a bounty, and aim to submit hours — not minutes — before it. |
 
 When in doubt, the order of operations is always the same: read the message, check RULES.txt, fix the one thing named, re-run the check.
+
+### Five habits that prevent almost every problem
+
+1. **Screenshot the bounty page when you start.** Rules, reward, and deadline, saved — no arguments with your future self.
+2. **Keep the kit folder untouched except where the rules say otherwise.** A pristine kit makes check errors much easier to diagnose.
+3. **Commit to submitting a "version one."** A submitted good entry beats an unsubmitted perfect one, every single time.
+4. **Save your session, not just your code.** Your transcripts are half your entry; treat them with the same care.
+5. **Ask the checker, not the internet.** The kit's check knows this bounty's exact requirements. Its messages outrank any generic advice — including, if they ever disagree, this guide.
 
 ---
 
@@ -294,11 +324,13 @@ You now know everything a first entry requires:
 - How every bounty flows, from discovery to claiming.
 - Exactly which buttons to press, in which order.
 
-The only step left is the first one.
+The only step left is the first one — and it is a small one.
 
 **👉 Create your free account here: [https://make.fun/r/3t08f211](https://make.fun/r/3t08f211)** — referral code **`3t08f211`**
 
-It takes about two minutes. Signing up through this link supports this guide's author at zero cost to you, because the bonus is paid by make.fun and never taken from your winnings. Then download a kit, open a fresh session with your agent, and build something you are proud of.
+It takes about two minutes, it costs nothing, and there is no commitment hiding anywhere: browse first, enter when a bounty excites you, ignore the rest. Signing up through this link supports this guide's author at zero cost to you, because the bonus is paid by make.fun and never taken from your winnings.
+
+Then download a kit, open a fresh session with your agent, and build something you are proud of. Your first entry does not need to be brilliant. It needs to be *submitted* — brilliance is what the second and third entries are for.
 
 And when you place in your first bounty — it happens to beginners more often than you would think — come back and share your own referral link with the next newcomer. The door you walked through can be the door you hold open.
 
